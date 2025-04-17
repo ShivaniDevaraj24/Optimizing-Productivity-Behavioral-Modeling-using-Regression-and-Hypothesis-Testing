@@ -44,8 +44,8 @@ The code includes:
 ---
 
 ## 📦 Optimizing-Productivity/
-- Project_Code.ipynb                  # Jupyter notebook with full analysis and visualizations
-- Survey_Questionaire.doc             # Original survey form used for data collection
-- Survey_Responses.csv                # Collected survey responses (raw data)
-- Optimizing_Productive-Report.pdf    # Final report summarizing findings and recommendations
-- README.md                           # Project overview and usage instructions
+- Project_Code.ipynb- Jupyter notebook with full analysis and visualizations
+- Survey_Questionaire.doc- Original survey form used for data collection
+- Survey_Responses.csv- Collected survey responses (raw data)
+- Optimizing_Productive-Report.pdf- Final report summarizing findings and recommendations
+- README.md- Project overview and usage instructions
